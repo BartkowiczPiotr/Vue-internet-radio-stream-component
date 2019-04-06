@@ -44,6 +44,13 @@ export default {
                     favorite: false,
                 },
                 {
+                    station: 'Big R Radio - Smooth Jazz',
+                    country: 'USA',
+                    website: 'http://player.bigrradio.com/?autoplay=54',
+                    url: 'http://bigrradio.cdnstream1.com/5123_128',
+                    favorite: false,
+                },
+                {
                     station: 'RMF FM - MAXXX',
                     country: 'Poland',
                     website: 'http://www.rmfon.pl/',

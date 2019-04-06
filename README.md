@@ -1,5 +1,6 @@
 <h1>#Vue.js Internet Radio Component</h1>
-<p>This is internet radio streaming component.</p>
+<p>This is internet radio streaming component.
+Allways avaible like a desktop app <a href="https://drive.google.com/file/d/1WPF6cEykSVpPYQoDZiLpMTgM8Cky9O-q/view?usp=sharing">VuePlay</a></p>
 
 <img src="cover.jpg"/>
 
